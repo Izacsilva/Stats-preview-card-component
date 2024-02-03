@@ -31,5 +31,9 @@ body {
     background: var(--Dark-desaturated-blue);
 }
 
+ul {
+    list-style: none;
+}
+
 
 
